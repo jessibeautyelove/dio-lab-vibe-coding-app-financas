@@ -57,4 +57,60 @@ Exemplo:
 - Em vez de “investimento em moeda estrangeira”, dizer: “Que tal guardar parte do seu dinheiro em moedas que estão se valorizando? Assim você se protege e pode ganhar mais no futuro.”.  
 
 ## 7. Design Acessível
-Para garantir que o aplicativo seja inclusivo e fácil de usar por todos os tipos de
+Para garantir que o aplicativo seja inclusivo e fácil de usar por todos os tipos de pessoas:  
+- Interface clara e intuitiva: uso de ícones simples, textos legíveis e navegação direta.  
+- Contraste adequado: cores pensadas para pessoas com baixa visão ou daltonismo.  
+- Suporte multimodal: interação por voz, texto e leitura automática das mensagens.  
+- Tamanho ajustável de fonte: permitindo que cada usuário personalize a leitura.  
+- Mensagens empáticas e motivadoras: linguagem que acolhe diferentes perfis, evitando termos técnicos ou complexos.  
+- Compatibilidade com leitores de tela: garantindo acessibilidade para pessoas com deficiência visual.  
+
+---
+
+- **Prints ou pequenos vídeos das interações com a IA**  
+
+[Assista aqui](https://drive.google.com/file/d/1uqepT9TNzjTcwFG-tpIGAFu1uLk4d8yE/view?usp=drivesdk)
+
+## Prints das interações com a IA
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/0da6554d-a97a-4f09-a387-fac0fbdb4dba" alt="Print 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8a698202-37f3-4438-a0a9-71c2e5c21e1c" alt="Print 2" width="45%" />
+</p>
+
+---
+
+### Seu Bolso Amigo
+
+**Resumo**  
+Assistente financeiro conversacional para iniciantes que transforma o controle financeiro em conversas simples. Registra gastos por chat, classifica automaticamente em categorias e apresenta relatórios visuais claros.
+
+### Funcionalidades principais
+- Registro de gastos em linguagem natural.  
+- Categorização automática (alimentação, moradia, transporte, saúde, lazer, outros).  
+- Metas financeiras com cálculo de depósito mensal.  
+- Relatórios humanizados e gráficos simples.  
+- Agente virtual com linguagem acolhedora e educativa.  
+
+### Acessibilidade
+Interface limpa, textos legíveis, suporte à leitura por voz, compatibilidade com leitores de tela e ajuste de tamanho de fonte.  
+
+### Como contribuir
+- Abra uma issue para discutir mudanças.  
+- Crie um branch `feature/nome` ou `fix/descricao`.  
+- Envie um pull request com descrição das alterações e screenshots quando aplicável.  
+
+### Licença
+MIT License  
+
+---
+
+### Reflexão sobre o processo
+- **O que funcionou bem?**  
+  Aprendi a conversar com os diversos formatos de IA, tanto com o Copilot (app que baixei) quanto com o Lovable, desenvolvendo rapidamente — em poucas horas e minutos — um aplicativo funcional de finanças acessível e adaptável a todos os tipos de pessoas.  
+
+- **O que não funcionou como o esperado?**  
+  A tentativa de criar um boot automático, ou melhor, um gatilho para que o próprio app criasse uma meta. Porém, as tentativas foram limitadas pelas conversas gratuitas.  
+
+- **O que aprendi sobre conversar com IAs?**  
+  Que é essencial para o nosso aprendizado hoje em dia. Mesmo quando não temos muito conhecimento, vale a pena buscar ajuda e se aperfeiçoar na educação e em todas as áreas da vida.  
